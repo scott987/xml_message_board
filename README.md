@@ -2,7 +2,7 @@
 use php &amp;xml to build a message board
 
 #Environment
-php 5.x
+php 5.4
 
 #Licence
 The MIT License (MIT)
