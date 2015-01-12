@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE board [
+<!ELEMENT comment (name , message)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+]>
+<board>
+  
+<comment><name>a</name><message>a</message></comment></board>
