@@ -1,10 +1,10 @@
 # xml_message_board
 use php &amp;xml to build a message board
 
-#Environment
+# Environment
 php 5.4
 
-#Licence
+# Licence
 The MIT License (MIT)
 
 Copyright (c) 2015 scott987
